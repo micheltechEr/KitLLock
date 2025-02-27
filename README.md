@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 Este projeto foi desenvolvido para implementar um sistema de autenticação utilizando o **Kit BitDogLab*. Ele combina um **display OLED SSD1306**, dois **LEDs** (verde e vermelho), um **buzzer** e comunicação via **terminal serial** para criar uma aplicação interativa de controle de acesso.  
-Para acessar um vídeo demonstrativo (caso exista), adicione o link aqui: [clique aqui](https://drive.google.com/file/d/1V8qliTdz6ApxlUpUbqbUllNp8asoTTNB/view?usp=sharing).
+Para acessar um vídeo demonstrativo , adicione o link aqui: [clique aqui](https://drive.google.com/file/d/1V8qliTdz6ApxlUpUbqbUllNp8asoTTNB/view?usp=sharing).
 
 O sistema utiliza:
 - O **terminal serial** para entrada de senha e comandos pelo usuário.
